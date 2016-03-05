@@ -537,7 +537,7 @@
     <ForbiddenCharacters>
       <ForbiddenLineBeginCharacters>!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕ぁぃぅぇぉっゃゅょゎ゛゜ゝゞァィゥェォッャュョヮヵヶ・ーヽヾ！％），．：；？］｝｡｣､･ｧｨｩｪｫｬｭｮｯｰﾞﾟ¢</ForbiddenLineBeginCharacters>
       <ForbiddenLineEndCharacters>$([¥{£¥‘“〈《「『【〔＄（［｛｢£￥</ForbiddenLineEndCharacters>
-      <LineBreakHangingCharacters>、。，．</LineBreakHangingCharacters>
+      <LineBreakHangingCharacters>、。，．)]}’”′″〉》」』】〕）］｝｣</LineBreakHangingCharacters>
     </ForbiddenCharacters>
     <ReservedWords>
       <trueWord>true</trueWord>
